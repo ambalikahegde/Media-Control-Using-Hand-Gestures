@@ -1,0 +1,5 @@
+# Ignore directories
+.idea/
+
+# Ignore .npy files
+*.npy
